@@ -1,2 +1,5 @@
 # hello-world
-GitHub Guide Hello World Project
+
+Hello, world!
+
+My name is Alak, and this is my first GitHub project!
